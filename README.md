@@ -101,7 +101,7 @@ Las funcionalidades más importantes del proyecto son :
     <img src="imgPresentacion/img10.png" width="600" height="200" />
 </p>
 
-* Página de Nueva Factura("con exito")
+* Página de Nueva Factura("con éxito")
 <p>
     <img src="imgPresentacion/img12.png" width="600" height="200" />
 </p>
