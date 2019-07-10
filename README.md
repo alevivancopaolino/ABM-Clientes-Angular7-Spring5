@@ -36,7 +36,7 @@ Las funcionalidades más importantes del proyecto son :
 
 * Asi mismo en el FrontEnd esta desarrollado con Angular 7 , que es un framework para aplicaciones web desarrollado en TypeScript.
 
-* La seguridad del sistema esta determinado por usuarios cuyos respectivos roles determina las acciones posibles a realizar en dicha aplicacion ,
+* La seguridad del sistema esta determinado por usuarios cuyos respectivos roles determina las acciones posibles a realizar en dicha aplicación ,
   esta seguridad esta implementada del lado del BackEnd por Spring Security mediante la api de OAuth2 en conjunto con JWT.
 
 * La validación y la integridad de los datos al ser alterados se verifican para su correcto prosesamiento tanto del lado del cliente como del servidor.
