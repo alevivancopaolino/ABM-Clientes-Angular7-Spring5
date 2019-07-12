@@ -34,12 +34,12 @@ Las funcionalidades más importantes del proyecto son :
 
 * El proyecto del lado del Backend esta compuesto por una Api Rest con Spring Framework 5 y Spring Boot 2.
 
-* Asi mismo en el FrontEnd esta desarrollado con Angular 7 , que es un framework para aplicaciones web desarrollado en TypeScript.
+* Asi mismo en el FrontEnd esta desarrollado con Angular 7 , que es un framework para aplicaciones web desarrollado en TypeScript y Bootstrap 4.
 
 * La seguridad del sistema esta determinado por usuarios cuyos respectivos roles determina las acciones posibles a realizar en dicha aplicación ,
   esta seguridad esta implementada del lado del BackEnd por Spring Security mediante la api de OAuth2 en conjunto con JWT.
 
-* La validación y la integridad de los datos al ser alterados se verifican para su correcto prosesamiento tanto del lado del cliente como del servidor.
+* La integridad de los datos al ser guardados o modificados se verifican para su correcto prosesamiento tanto del lado del cliente como del servidor.
 
 * La BD que se implementa para dicha ocasión es MySql.
 
